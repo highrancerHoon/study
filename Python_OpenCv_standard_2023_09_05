@@ -1,6 +1,31 @@
 개요 
 
-Coumputer vision 
+  Coumpter Vision and Image Processing
+  
+  Coumputer vision 
   - 컴퓨터를 이용하여 정지 영상 or 동영상으로부터 의미있는 정보를 추출하는 방법을 연구하는 학문 
+  
+  Image Processing
+  - 영상을 입력으로 받아 화질을 개선하는 등의 처리를 통해 다시 영상을 출력으로 내보내는 작업 
+  - Computer Vision을 위한 전처리 작업이다.
 
-Coumpter Vision and Image Processing
+  Computer Vision 관련 분야 
+    - 신호처리 
+      > Digital signal 
+      > Analog signal
+      > Frequency Analize
+
+    - 수학 
+      > 선형대수 
+      > 확률 / 통계
+      > 해석학 
+      > 기하학 
+
+    - 광학 
+    - 로봇공학 
+    - 머신러닝
+      > Deep running 
+      > 
+    - 컴퓨터 과학 
+    - 인지과학 
+    - Computer Graphics 
